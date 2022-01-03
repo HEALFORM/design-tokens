@@ -1,6 +1,7 @@
 const StyleDictionary = require('style-dictionary').extend(`${__dirname}/config.js`);
 const fs = require('fs');
 const _ = require('lodash');
+const JsonToTS = require('json-to-ts');
 
 console.log('Build started...');
 console.log('\n===================================');
@@ -13,6 +14,15 @@ StyleDictionary.registerFormat({
 StyleDictionary.registerFormat({
   formatter: _.template(fs.readFileSync(`${__dirname}/templates/commonjs.template`)),
   name: 'custom/format/javascript/module'
+});
+
+StyleDictionary.registerFormat({
+  name: 'typescript/accurate-module-declarations',
+  formatter: function({ dictionary }) {
+    return 'declare const root: RootObject\n' +
+      'export default root\n' +
+      JsonToTS(dictionary.properties).join('\n');
+  },
 });
 
 StyleDictionary.registerFormat({

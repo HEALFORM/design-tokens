@@ -31,20 +31,20 @@ module.exports = {
       buildPath: 'dist/js/',
       files: [
         {
-          destination: 'tokens.es6.js',
+          destination: 'theme.es6.js',
           format: 'javascript/es6'
         },
         {
-          destination: 'tokens.commonjs.js',
+          destination: 'theme.commonjs.js',
           format: 'custom/format/javascript/module'
         },
         {
-          destination: 'tokens.js',
+          destination: 'theme.js',
           format: 'javascript/module'
         },
         {
-          destination: 'tokens.d.ts',
-          format: 'typescript/module-declarations'
+          destination: 'theme.d.ts',
+          format: 'typescript/accurate-module-declarations'
         },
         {
           destination: 'tokens.json',
