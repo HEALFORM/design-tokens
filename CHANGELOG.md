@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/HEALFORM/healform-design-tokens/compare/v1.0.1...v1.1.0) (2022-01-03)
+
+
+### Features
+
+* more accurate module declarations ([5d6a82d](https://github.com/HEALFORM/healform-design-tokens/commit/5d6a82d2262fc87284bd900a6906828171567a3d))
+
 ## [1.0.1](https://github.com/HEALFORM/healform-design-tokens/compare/v1.0.0...v1.0.1) (2022-01-03)
 
 
