@@ -1,0 +1,47 @@
+{
+  "name": "@healform/design-tokens",
+  "scope": "@healform",
+  "version": "1.0.0",
+  "description": "Managing and publishing design tokens.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@commitlint/cli": "~16.0.1",
+    "@commitlint/config-conventional": "~16.0.0",
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/exec": "^5.0.0",
+    "@semantic-release/git": "^9.0.0",
+    "axios": "~0.24.0",
+    "dotenv": "~10.0.0",
+    "eslint": "^8.0.1",
+    "eslint-plugin-yaml": "^0.5.0",
+    "lodash": "^4.17.15",
+    "minimist": "~1.2.5",
+    "netlify-cli": "~8.6.0",
+    "semantic-release": "~17.4.4",
+    "semantic-release-slack-bot": "^3.0.0",
+    "shelljs": "~0.8.4",
+    "simple-git": "~2.48.0",
+    "style-dictionary": "~3.1.1"
+  },
+  "files": [
+    "dist/"
+  ],
+  "scripts": {
+    "build": "node ./build.js",
+    "lint": "npm run lint:yml && npm run lint:js",
+    "lint:js": "eslint ./ --ext .js",
+    "lint:yml": "eslint ./ --ext .yml,.yaml",
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HEALFORM/healform-design-tokens.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HEALFORM/healform-design-tokens/issues"
+  },
+  "homepage": "https://github.com/HEALFORM/healform-design-tokens#readme"
+}
