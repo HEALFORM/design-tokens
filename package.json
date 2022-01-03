@@ -30,8 +30,8 @@
   "scripts": {
     "build": "node ./build.js",
     "lint": "npm run lint:yml && npm run lint:js",
-    "lint:js": "eslint ./ --ext .js",
-    "lint:yml": "eslint ./ --ext .yml,.yaml",
+    "lint:js": "eslint src/**/* --ext .js",
+    "lint:yml": "eslint src/**/* --ext .yml,.yaml",
     "semantic-release": "semantic-release"
   },
   "repository": {
