@@ -1,12 +1,22 @@
 /* eslint-disable sort-keys */
-
 module.exports = {
-  xs: 480, // px
-  sm: 768, // px
-  md: 1024, // px
-  lg: 1280, // px
-  xl: 1440, // px
-  xxl: 1920 // px
+  xs: {
+    value: 480 // px
+  },
+  sm: {
+    value: 768 // px
+  },
+  md: {
+    value: 1024 // px
+  },
+  lg: {
+    value: 1280 // px
+  },
+  xl: {
+    value: 1440 // px
+  },
+  xxl: {
+    value: 1920 // px
+  }
 }
-
 /* eslint-disable sort-keys */

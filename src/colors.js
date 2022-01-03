@@ -1,5 +1,4 @@
 /* eslint-disable sort-keys */
-
 module.exports = {
   primary: {
     value: "#5B68E5",
@@ -104,5 +103,4 @@ module.exports = {
     rgbValue: "rgba(174, 107, 239, 1)"
   }
 }
-
 /* eslint-disable sort-keys */

@@ -1,5 +1,4 @@
 /* eslint-disable sort-keys */
-
 module.exports = {
   headline: {
     one: {
@@ -56,5 +55,4 @@ module.exports = {
     lineHeight: "28px"
   }
 }
-
 /* eslint-disable sort-keys */
