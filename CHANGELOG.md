@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/HEALFORM/healform-design-tokens/compare/v1.0.0...v1.0.1) (2022-01-03)
+
+
+### Bug Fixes
+
+* conditional branch build ([9eff78f](https://github.com/HEALFORM/healform-design-tokens/commit/9eff78f91f966aa83224171ac00ff546a521f60e))
+
 # 1.0.0 (2022-01-03)
 
 

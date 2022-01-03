@@ -1,7 +1,7 @@
 {
   "name": "@healform/design-tokens",
   "scope": "@healform",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Managing and publishing design tokens.",
   "main": "index.js",
   "dependencies": {},
