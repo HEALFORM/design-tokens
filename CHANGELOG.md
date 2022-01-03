@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/HEALFORM/healform-design-tokens/compare/v1.1.0...v1.1.1) (2022-01-03)
+
+
+### Bug Fixes
+
+* Set 'value'-key in animations, breakpoints, colors and fonts. ([65268c2](https://github.com/HEALFORM/healform-design-tokens/commit/65268c265e35918953d214d3ba362c07570d88c9))
+
 # [1.1.0](https://github.com/HEALFORM/healform-design-tokens/compare/v1.0.1...v1.1.0) (2022-01-03)
 
 
