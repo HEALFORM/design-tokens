@@ -45,8 +45,10 @@ healform-design-tokens/
 
 The package currently exports a single theme that is meant to be used with HEALFORM's React component library, [HEALFORM UI](https://github.com/healform/healform-ui-library).
 
+### JavaScript
+
 ```jsx
-import tokens from '@healform/design-tokens';
+import tokens from "@healform/design-tokens/dist/js/tokens";
 
 const Colored = styled.strong`
   color: ${tokens.colors.primary.value};
@@ -55,6 +57,22 @@ const Colored = styled.strong`
 const App = () => (
   <Colored>This styled component has access to the theme.</Colored>
 );
+```
+
+### CSS
+
+```css
+import "@healform/design-tokens/dist/css/variables--root.css"
+
+#example {
+  background: var(--colors-white);
+  color: var(--colors-black);
+}
+
+#example a {
+  color: var(--colors-primary);
+  padding: var(--spacings-md);
+}
 ```
 
 ## Development
