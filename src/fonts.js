@@ -13,22 +13,22 @@ module.exports = {
   },
   fontWeight: {
     regular: {
-      value: "400"
+      value: 400
     },
     medium: {
-      value: "500"
+      value: 500
     },
     semibold: {
-      value: "600"
+      value: 600
     },
     bold: {
-      value: "700"
+      value: 700
     },
     extrabold: {
-      value: "800"
+      value: 800
     },
     black: {
-      value: "900"
+      value: 900
     }
   }
 }
