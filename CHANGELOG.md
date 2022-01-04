@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/HEALFORM/healform-design-tokens/compare/v1.1.2...v1.2.0) (2022-01-04)
+
+
+### Features
+
+* Add default shadow token ([d33752c](https://github.com/HEALFORM/healform-design-tokens/commit/d33752ca3880568c2acc7a79f37e3dbda5103843))
+
 ## [1.1.2](https://github.com/HEALFORM/healform-design-tokens/compare/v1.1.1...v1.1.2) (2022-01-04)
 
 
