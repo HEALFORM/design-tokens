@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/HEALFORM/healform-design-tokens/compare/v1.2.0...v1.3.0) (2022-01-11)
+
+
+### Features
+
+* Add palette for each color. ([d7caaea](https://github.com/HEALFORM/healform-design-tokens/commit/d7caaea85a22bef95bcb6ff547b886a26bf48b0a))
+
 # [1.2.0](https://github.com/HEALFORM/healform-design-tokens/compare/v1.1.2...v1.2.0) (2022-01-04)
 
 
