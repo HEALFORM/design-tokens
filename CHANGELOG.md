@@ -1,3 +1,15 @@
+# [1.4.0](https://github.com/HEALFORM/healform-design-tokens/compare/v1.3.0...v1.4.0) (2022-02-09)
+
+
+### Features
+
+* use yarn instead of npm ([6dd1b00](https://github.com/HEALFORM/healform-design-tokens/commit/6dd1b006f12af6f5e88839715d5f8ee9c6a29515))
+
+
+### Performance Improvements
+
+* **pencil:** rename theme export to tokens ([da890ed](https://github.com/HEALFORM/healform-design-tokens/commit/da890ed59220db22fbeeb3249e64fb36087437e4))
+
 # [1.3.0](https://github.com/HEALFORM/healform-design-tokens/compare/v1.2.0...v1.3.0) (2022-01-11)
 
 
