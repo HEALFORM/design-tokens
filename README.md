@@ -43,7 +43,7 @@ healform-design-tokens/
 
 ## Usage
 
-The package currently exports a single theme that is meant to be used with HEALFORM's React component library, [HEALFORM UI](https://github.com/healform/healform-ui-library).
+The package currently exports a single theme that is meant to be used with HEALFORM's React component library, [HEALFORM UI](https://github.com/healform/liquid).
 
 ### JavaScript
 
