@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/HEALFORM/healform-design-tokens/compare/v1.4.0...v1.5.0) (2022-02-18)
+
+
+### Features
+
+* **Breakpoints:** Update `breakpoints` with new values. ([f14cd9a](https://github.com/HEALFORM/healform-design-tokens/commit/f14cd9a47c894c876a5f5f14e403041d42edad81))
+
 # [1.4.0](https://github.com/HEALFORM/healform-design-tokens/compare/v1.3.0...v1.4.0) (2022-02-09)
 
 
