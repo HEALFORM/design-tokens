@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/HEALFORM/healform-design-tokens/compare/v1.5.0...v1.5.1) (2022-02-23)
+
+
+### Bug Fixes
+
+* Updated build command config. ([381f499](https://github.com/HEALFORM/healform-design-tokens/commit/381f49927564541364fa2ee4982335cfd2bd7189))
+
 # [1.5.0](https://github.com/HEALFORM/healform-design-tokens/compare/v1.4.0...v1.5.0) (2022-02-18)
 
 
