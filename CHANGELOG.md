@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/HEALFORM/healform-design-tokens/compare/v1.5.1...v1.6.0) (2022-03-31)
+
+
+### Features
+
+* Add color shades for `primary` and `secondary` colors. ([7a3a336](https://github.com/HEALFORM/healform-design-tokens/commit/7a3a33626f00ba71a39e61cf6611c5ed52db3309))
+
 ## [1.5.1](https://github.com/HEALFORM/healform-design-tokens/compare/v1.5.0...v1.5.1) (2022-02-23)
 
 
