@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/HEALFORM/healform-design-tokens/compare/v1.6.0...v1.7.0) (2022-03-31)
+
+
+### Features
+
+* Add `json/nested` format ([35627a3](https://github.com/HEALFORM/healform-design-tokens/commit/35627a3345d95a88a2107da888db03a91a18441f))
+
 # [1.6.0](https://github.com/HEALFORM/healform-design-tokens/compare/v1.5.1...v1.6.0) (2022-03-31)
 
 
