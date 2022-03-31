@@ -1,3 +1,10 @@
+## [1.7.1](https://github.com/HEALFORM/healform-design-tokens/compare/v1.7.0...v1.7.1) (2022-03-31)
+
+
+### Bug Fixes
+
+* Restore `gray` color shades ([90f4977](https://github.com/HEALFORM/healform-design-tokens/commit/90f497742eaf57c92186bbdec97f0d72ddb32328))
+
 # [1.7.0](https://github.com/HEALFORM/healform-design-tokens/compare/v1.6.0...v1.7.0) (2022-03-31)
 
 
