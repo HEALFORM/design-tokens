@@ -38,10 +38,6 @@ module.exports = {
           format: 'typescript/module-declarations',
           destination: 'tokens.d.ts'
         },
-        {
-          destination: 'tokens.json',
-          format: 'json/flat'
-        }
       ],
       transformGroup: 'js',
       transforms: [
@@ -50,24 +46,17 @@ module.exports = {
         'color/css'
       ]
     },
-    jsonFlat: {
-      buildPath: 'dist/js/',
+    json: {
+      buildPath: 'dist/json/',
       files: [
         {
-          destination: 'tokens.json',
+          destination: 'tokens-flat.json',
           format: 'json/flat'
-        }
-      ],
-      transformGroup: 'js',
-      transforms: [
-        'attribute/cti',
-        'name/cti/kebab',
-        'color/css'
-      ]
-    },
-    jsonRaw: {
-      buildPath: 'dist/js/',
-      files: [
+        },
+        {
+          destination: 'tokens-nested.json',
+          format: 'json/nested'
+        },
         {
           destination: 'tokens-raw.json',
           format: 'json/extended'
