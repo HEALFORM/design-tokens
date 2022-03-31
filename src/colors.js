@@ -295,16 +295,68 @@ module.exports = {
     value: "#FFFFFF"
   },
   primary: {
-    value: "{colors.blue.500.value}"
-  },
-  primaryDark: {
-    value: "{colors.blue.700.value}"
+    50: {
+      value: "{colors.blue.50.value}"
+    },
+    100: {
+      value: "{colors.blue.100.value}"
+    },
+    200: {
+      value: "{colors.blue.200.value}"
+    },
+    300: {
+      value: "{colors.blue.300.value}"
+    },
+    400: {
+      value: "{colors.blue.400.value}"
+    },
+    500: {
+      value: "{colors.blue.500.value}"
+    },
+    600: {
+      value: "{colors.blue.600.value}"
+    },
+    700: {
+      value: "{colors.blue.700.value}"
+    },
+    800: {
+      value: "{colors.blue.800.value}"
+    },
+    900: {
+      value: "{colors.blue.900.value}"
+    },
   },
   secondary: {
-    value: "{colors.seagrass.500.value}"
-  },
-  secondaryDark: {
-    value: "{colors.seagrass.700.value}"
+    50: {
+      value: "{colors.seagrass.50.value}"
+    },
+    100: {
+      value: "{colors.seagrass.100.value}"
+    },
+    200: {
+      value: "{colors.seagrass.200.value}"
+    },
+    300: {
+      value: "{colors.seagrass.300.value}"
+    },
+    400: {
+      value: "{colors.seagrass.400.value}"
+    },
+    500: {
+      value: "{colors.seagrass.500.value}"
+    },
+    600: {
+      value: "{colors.seagrass.600.value}"
+    },
+    700: {
+      value: "{colors.seagrass.700.value}"
+    },
+    800: {
+      value: "{colors.seagrass.800.value}"
+    },
+    900: {
+      value: "{colors.seagrass.900.value}"
+    },
   },
   success: {
     value: "{colors.green.500.value}"
@@ -319,7 +371,7 @@ module.exports = {
     value: "{colors.red.500.value}"
   },
   promo: {
-    value: "#ae6bef"
+    value: "{colors.violet.500.value}"
   }
 }
 /* eslint-disable sort-keys */
