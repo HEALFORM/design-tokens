@@ -258,34 +258,34 @@ module.exports = {
   },
   gray: {
     50: {
-      value: "#F1F2F3"
+      value: "#fafafa"
     },
     100: {
-      value: "#E4E4E7"
+      value: "#f0f0f0"
     },
     200: {
-      value: "#C9CACF"
+      value: "#e4e4e7"
     },
     300: {
-      value: "#AEAFB7"
+      value: "#d4d4d8"
     },
     400: {
-      value: "#93959F"
+      value: "#a1a1aa"
     },
     500: {
-      value: "#777986"
+      value: "#71717a"
     },
     600: {
-      value: "#60626C"
+      value: "#52525b"
     },
     700: {
-      value: "#484951"
+      value: "#3f3f46"
     },
     800: {
-      value: "#303136"
+      value: "#27272a"
     },
     900: {
-      value: "#18181B"
+      value: "#18181b"
     },
   },
   black: {
