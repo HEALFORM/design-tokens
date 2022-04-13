@@ -1,3 +1,10 @@
+## [1.7.2](https://github.com/HEALFORM/healform-design-tokens/compare/v1.7.1...v1.7.2) (2022-04-13)
+
+
+### Bug Fixes
+
+* Rename `fontStack` design-tokens to `heading` and `body` ([2a2bb92](https://github.com/HEALFORM/healform-design-tokens/commit/2a2bb92bbe20167a11eb243a42ee66cfb4abbc28))
+
 ## [1.7.1](https://github.com/HEALFORM/healform-design-tokens/compare/v1.7.0...v1.7.1) (2022-03-31)
 
 
