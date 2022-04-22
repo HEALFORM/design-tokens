@@ -1,3 +1,10 @@
+## [1.8.1](https://github.com/HEALFORM/healform-design-tokens/compare/v1.8.0...v1.8.1) (2022-04-22)
+
+
+### Bug Fixes
+
+* Match `fontStack` values to Adobe fonts name ([2bf56c0](https://github.com/HEALFORM/healform-design-tokens/commit/2bf56c058856f60e965d0dd0f9123f6c9fa5b6da))
+
 # [1.8.0](https://github.com/HEALFORM/healform-design-tokens/compare/v1.7.2...v1.8.0) (2022-04-22)
 
 
