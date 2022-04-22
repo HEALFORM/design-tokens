@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/HEALFORM/healform-design-tokens/compare/v1.7.2...v1.8.0) (2022-04-22)
+
+
+### Features
+
+* Set `Aktiv Grotesk` and `Aktiv Grotesk Ex` as main font. ([bdf509b](https://github.com/HEALFORM/healform-design-tokens/commit/bdf509b6e52da013a4d9089affe9e60434963d09))
+
 ## [1.7.2](https://github.com/HEALFORM/healform-design-tokens/compare/v1.7.1...v1.7.2) (2022-04-13)
 
 
