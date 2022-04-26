@@ -36,12 +36,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HEALFORM/healform-design-tokens.git"
+    "url": "git+https://github.com/HEALFORM/design-tokens.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HEALFORM/healform-design-tokens/issues"
+    "url": "https://github.com/HEALFORM/design-tokens/issues"
   },
-  "homepage": "https://github.com/HEALFORM/healform-design-tokens#readme"
+  "homepage": "https://github.com/HEALFORM/design-tokens#readme"
 }

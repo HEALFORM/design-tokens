@@ -4,7 +4,7 @@
 
 Automatically generate visual primitives such as typography, color, and spacing that are shared across platforms.
 
-[![Build Status](https://travis-ci.com/HEALFORM/healform-design-tokens.svg?branch=main)](https://travis-ci.com/HEALFORM/healform-design-tokens) [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release) ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/HEALFORM/healform-design-tokens?label=release)
+[![CI](https://github.com/HEALFORM/design-tokens/actions/workflows/ci.yml/badge.svg)](https://github.com/HEALFORM/design-tokens/actions/workflows/ci.yml) [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release) ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/HEALFORM/design-tokens?label=release)
 
 </div>
 
@@ -22,7 +22,7 @@ npm install @healform/design-tokens
 
 ## What's included
 ```
-healform-design-tokens/
+design-tokens/
 ├── src
 └── dist/
     ├── css/
