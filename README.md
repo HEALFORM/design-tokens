@@ -23,27 +23,28 @@ npm install @healform/design-tokens
 ## What's included
 ```
 healform-design-tokens/
-├── src/                                    # Token source files
-└── dist/                                   # These files get built through the build task and get published via npm — are part of the npm package
+├── src
+└── dist/
     ├── css/
-    │    ├── variables--host.css            # CSS variables with :host selector
-    │    └── variables--root.css            # CSS variables with :root selector
+    │   ├── variables-host.css
+    │   └── variables-root.css
     ├── js/
-    │    ├── tokens-raw.json                # Nested .json file
-    │    ├── tokens.commonjs.js             # Flat commonjs file
-    │    ├── tokens.es6.js                  # Flat es6 file
-    │    ├── tokens.js                      # Nested .js file
-    │    └── tokens.json                    # Flat .json file
-    ├── less/                            
-    │   └── variables.less                  # Less variables
-    └── scss/                            
-        ├── variables_css--placeholder.scss # CSS variables with Sass placeholder selector (%)
-        └── variables.scss                  # Sass variables
+    │   ├── tokens.d.ts
+    │   └── tokens.js
+    ├── json/
+    │   ├── tokens-flat.json
+    │   ├── tokens-nested.json
+    │   └── tokens-raw.json
+    ├── less/
+    │   └── variables.less
+    └── scss/
+        ├── variables.scss
+        └── variables-map.scss
 ```
 
 ## Usage
 
-The package currently exports a single theme that is meant to be used with HEALFORM's React component library, [HEALFORM UI](https://github.com/healform/liquid).
+The package currently exports a single theme that is meant to be used with HEALFORM's React component library, [Liquid UI](https://github.com/healform/liquid).
 
 ### JavaScript
 

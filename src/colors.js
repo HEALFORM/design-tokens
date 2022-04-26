@@ -362,7 +362,7 @@ module.exports = {
     value: "{colors.green.500.value}"
   },
   info: {
-    value: "#54CCEE"
+    value: "{colors.turquoise.500.value}"
   },
   warning: {
     value: "{colors.orange.500.value}"

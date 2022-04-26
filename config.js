@@ -91,15 +91,12 @@ module.exports = {
       files: [
         {
           destination: 'variables.scss',
-          format: 'custom/format/scss'
+          format: 'scss/variables'
         },
         {
-          destination: 'variables_css--placeholder.scss',
-          format: 'css/variables',
-          options: {
-            selector: '%healform-design-tokens-css-variables'
-          }
-        }
+          destination: 'variables-map.scss',
+          format: 'scss/map-deep'
+        },
       ],
       transformGroup: 'scss',
       transforms: [
