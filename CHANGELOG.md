@@ -1,3 +1,10 @@
+## [1.9.3](https://github.com/HEALFORM/design-tokens/compare/v1.9.2...v1.9.3) (2022-04-26)
+
+
+### Bug Fixes
+
+* ci ([51cfd22](https://github.com/HEALFORM/design-tokens/commit/51cfd22725a2e377617bf6ce1c12a491e8768b7c))
+
 ## [1.9.2](https://github.com/HEALFORM/design-tokens/compare/v1.9.1...v1.9.2) (2022-04-26)
 
 
