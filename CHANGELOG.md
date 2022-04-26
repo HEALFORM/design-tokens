@@ -1,3 +1,10 @@
+## [1.9.2](https://github.com/HEALFORM/design-tokens/compare/v1.9.1...v1.9.2) (2022-04-26)
+
+
+### Performance Improvements
+
+* Adds `.gitmessage` and `.npmignore` ([0728d1c](https://github.com/HEALFORM/design-tokens/commit/0728d1cd880fe6b9db46a505d57b5e6e8de2988c))
+
 ## [1.9.1](https://github.com/HEALFORM/design-tokens/compare/v1.9.0...v1.9.1) (2022-04-26)
 
 
