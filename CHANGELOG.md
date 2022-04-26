@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/HEALFORM/healform-design-tokens/compare/v1.8.1...v1.9.0) (2022-04-26)
+
+
+### Features
+
+* add `variables-map.scss` ([da9b046](https://github.com/HEALFORM/healform-design-tokens/commit/da9b04633f1ccb9d45092cfc48a76a967f84a646))
+
 ## [1.8.1](https://github.com/HEALFORM/healform-design-tokens/compare/v1.8.0...v1.8.1) (2022-04-22)
 
 
