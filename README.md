@@ -76,6 +76,14 @@ import "@healform/design-tokens/dist/css/variables--root.css"
 }
 ```
 
+### Import via UNPKG CDN
+
+All design tokens are also automatically accessible via the UNPKG CDN after each release.
+
+```html
+<link rel="stylesheet" href="https://unpkg.com/@healform/design-tokens@latest/dist/css/variables--root.css">
+```
+
 ## Development
 
 ### Conventional Commits
