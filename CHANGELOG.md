@@ -1,3 +1,27 @@
+# [2.0.0](https://github.com/HEALFORM/design-tokens/compare/v1.8.1...v2.0.0) (2022-04-27)
+
+
+### Bug Fixes
+
+* ci ([51cfd22](https://github.com/HEALFORM/design-tokens/commit/51cfd22725a2e377617bf6ce1c12a491e8768b7c))
+
+
+### Features
+
+* add `variables-map.scss` ([da9b046](https://github.com/HEALFORM/design-tokens/commit/da9b04633f1ccb9d45092cfc48a76a967f84a646))
+* Add values for zIndexes ([4b11053](https://github.com/HEALFORM/design-tokens/commit/4b11053a6b1f6378fa7ed761d3cb4f61e9c4f770))
+
+
+### Performance Improvements
+
+* Adds `.gitmessage` and `.npmignore` ([0728d1c](https://github.com/HEALFORM/design-tokens/commit/0728d1cd880fe6b9db46a505d57b5e6e8de2988c))
+* Mirror UNPKG, update README.md ([406aeab](https://github.com/HEALFORM/design-tokens/commit/406aeab136313ced146fef66910e698b544d2f19))
+
+
+### BREAKING CHANGES
+
+* Please use the updated token format.
+
 ## [1.9.3](https://github.com/HEALFORM/design-tokens/compare/v1.9.2...v1.9.3) (2022-04-26)
 
 

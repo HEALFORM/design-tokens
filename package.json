@@ -1,7 +1,7 @@
 {
   "name": "@healform/design-tokens",
   "scope": "@healform",
-  "version": "1.9.3",
+  "version": "2.0.0",
   "description": "Automatically generate visual primitives such as typography, color, and spacing that are shared across platforms.",
   "main": "index.js",
   "dependencies": {},
