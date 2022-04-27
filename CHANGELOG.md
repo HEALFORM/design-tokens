@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/HEALFORM/design-tokens/compare/v2.0.0...v3.0.0) (2022-04-27)
+
+
+### Features
+
+* Add values for zIndexes ([3913b8b](https://github.com/HEALFORM/design-tokens/commit/3913b8b7bfcff34308960746e4056d2bf6d66c6d))
+
+
+### BREAKING CHANGES
+
+* Please use the updated token format.
+
 # [2.0.0](https://github.com/HEALFORM/design-tokens/compare/v1.8.1...v2.0.0) (2022-04-27)
 
 
