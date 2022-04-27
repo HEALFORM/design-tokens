@@ -1,3 +1,10 @@
+## [3.0.1](https://github.com/HEALFORM/design-tokens/compare/v3.0.0...v3.0.1) (2022-04-27)
+
+
+### Bug Fixes
+
+* consistent style in src files ([27892d3](https://github.com/HEALFORM/design-tokens/commit/27892d35074bc3f567cd5fa3ad202f311f6f449b))
+
 # [3.0.0](https://github.com/HEALFORM/design-tokens/compare/v2.0.0...v3.0.0) (2022-04-27)
 
 
