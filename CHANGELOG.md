@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/HEALFORM/design-tokens/compare/v3.0.1...v3.1.0) (2022-04-27)
+
+
+### Features
+
+* **Fonts:** Update fonts values. ([a6d650f](https://github.com/HEALFORM/design-tokens/commit/a6d650f0ae8f191da78386559c66b0f868917ae8))
+
 ## [3.0.1](https://github.com/HEALFORM/design-tokens/compare/v3.0.0...v3.0.1) (2022-04-27)
 
 
