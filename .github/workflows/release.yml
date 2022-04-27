@@ -35,7 +35,6 @@ jobs:
     strategy:
       matrix:
         node: [ '14.x' ]
-    needs: build
     steps:
       - name: Checkout Commit
         uses: actions/checkout@v2
