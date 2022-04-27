@@ -1,6 +1,23 @@
 # [3.0.0](https://github.com/HEALFORM/design-tokens/compare/v2.0.0...v3.0.0) (2022-04-27)
 
 
+### Bug Fixes
+
+* Add missing border token values. ([8d938e8](https://github.com/HEALFORM/design-tokens/commit/8d938e8ce2a720351954be152dbfa4b4206d72b5))
+
+
+### Features
+
+* Add values for zIndexes ([3913b8b](https://github.com/HEALFORM/design-tokens/commit/3913b8b7bfcff34308960746e4056d2bf6d66c6d))
+
+
+### BREAKING CHANGES
+
+* Please use the updated token format.
+
+# [3.0.0](https://github.com/HEALFORM/design-tokens/compare/v2.0.0...v3.0.0) (2022-04-27)
+
+
 ### Features
 
 * Add values for zIndexes ([3913b8b](https://github.com/HEALFORM/design-tokens/commit/3913b8b7bfcff34308960746e4056d2bf6d66c6d))
