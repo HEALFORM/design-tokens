@@ -1,5 +1,4 @@
 /* eslint-disable sort-keys */
-
 module.exports = {
   none: {
     value: "0rem"
@@ -26,5 +25,4 @@ module.exports = {
     value: "100%"
   }
 }
-
 /* eslint-disable sort-keys */
