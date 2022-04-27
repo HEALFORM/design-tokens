@@ -8,4 +8,5 @@ module.exports = {
   shadows: require('./shadows'),
   sizes: require('./sizes'),
   spacings: require('./spacings'),
+  zindex: require('./zindex')
 }
